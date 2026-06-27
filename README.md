@@ -9,12 +9,15 @@
 > Necesitas saber qué revisar, por qué es importante y qué documentación debe existir antes de lanzar.
 
 
+---
+
 _Lunes 9 a.m._ es tu copiloto de gobernanza que apoya en la toma de decisiones: Cierra la brecha de implementación entre los marcos de gobernanza de la IA y las decisiones de ingeniería del día a día.
 
 
 Tiene una arquitectura de dos capas:
 
 ```
+
 PREGUNTA DEL USUARIO: "Estoy desplegando un chatbot de atención al cliente."
 	                             │
           ┌──────────────────────┴───────────────────────┐
