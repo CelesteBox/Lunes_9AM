@@ -45,4 +45,4 @@ Por eso, si alguna vez te preguntaste: _"Tengo que desplegar esto hoy. ¿Qué ne
 
 ### ¿Y por qué se llama _Lunes 9 a.m._? 
 
-Porque promovemos una Inteligencia Artificial ética. Para que eso sea concreto, los principios deben estar más cerca de una decisión que pueda ser tomada antes de desplegar un lunes a las 9 a.m., que a un tratado refinado de filosofía. 
+Porque promovemos una inteligencia artificial ética. Y eso se concreta en decisiones que puedan ser tomada antes de desplegar un lunes a las 9 a.m.
