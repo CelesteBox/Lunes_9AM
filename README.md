@@ -38,7 +38,7 @@ _Lunes 9 a.m._ combina marcos internacionales de gobernanza de la IA con listas 
 
 No reemplaza las auditorías ni el asesoramiento letrado específico. Pero permite otorgar la capa de responsabilidad basal a un sistema de IA.
 
-Por eso, si alguna vez te preguntaste: _"Tengo que desplegar esto hoy. ¿Qué necesito revisar para poder defender mi decisión?"_, _Lunes 9 a.m._ te ayudará.
+Por eso, si alguna vez te preguntaste: _"Tengo que desplegar esto hoy. ¿Qué necesito revisar para poder defender mi decisión?"_, este proyecto te ayudará.
 
 ### ¿Y por qué se llama _Lunes 9 a.m._? 
 
