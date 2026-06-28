@@ -43,6 +43,11 @@ Orientación práctica      Fundamentación
             Respuesta final
 
 ```
+### Arquitectura y system_prompt.md
+
+El comportamiento del agente está diseñado deliberadamente para privilegiar decisiones prácticas. También pondera su transparencia y trazabilidad.
+
+### Objetivo
 
 _Lunes 9 a.m._ combina marcos internacionales de gobernanza de la IA con listas de verificación prácticas, evaluaciones de riesgos y orientación de implementación.
 
