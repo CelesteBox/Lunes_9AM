@@ -1,7 +1,6 @@
 # Lunes 9 a.m.
-
 ### Gobernanza de Inteligencia Artificial para equipos que necesitan decisiones, no filosofía.
-
+---
 
 > Tienes un despliegue programado para el mediodía.
 > Tu equipo está integrando un nuevo conjunto de datos, lanzando un chatbot o evaluando un LLM.
