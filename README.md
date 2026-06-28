@@ -45,7 +45,7 @@ Orientación práctica      Fundamentación
 ```
 ### El comportamiento del agente
 
-El archivo system_prompt.md tiene valor arquitectónico. En él se orienta deliberadamente el comportamiento del agente a privilegiar decisiones prácticas. También pondera su transparencia y trazabilidad.
+El system prompt orienta deliberadamente al agente a privilegiar decisiones prácticas. También pondera su transparencia y trazabilidad.
 
 ### Objetivo
 
