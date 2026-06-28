@@ -13,12 +13,10 @@
 _Lunes 9 a.m._ es tu copiloto de gobernanza de IA que te permitirá tomar decisiones de ingeniería del día a día. Implementables. Concretas. 
 
 
-Tiene una arquitectura de dos capas:
+La arquitectura lógica:
 
 
 ```
-
-Arquitectura lógica:
 
                 Usuario
                    │
