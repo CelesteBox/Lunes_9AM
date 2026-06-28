@@ -43,7 +43,7 @@ Orientación práctica      Fundamentación
             Respuesta final
 
 ```
-### Arquitectura y el system_prompt.md
+### El system_prompt.md en la arquitectura
 
 El comportamiento del agente está diseñado deliberadamente para privilegiar decisiones prácticas. También pondera su transparencia y trazabilidad.
 
@@ -56,4 +56,4 @@ No reemplaza auditorías, evaluaciones legales ni procesos formales de gobernanz
 
 ### ¿Y por qué "_Lunes 9 a.m._"? 
 
-Detectamos un problema: Existe una enorme distancia entre lo que demandan los marcos de Gobernanza de IA y la tarea concreta de quienes despliegan IA cotidianamente. Los principios parecen abstractos, mientras las decisiones siempre son concretas. Este agente permite a un equipo de ingenieros desplegar un sistema responsable cualquier lunes a las 9 a.m. 
+Existe una enorme distancia entre lo que demandan los marcos de Gobernanza de IA y la tarea concreta de quienes despliegan IA cotidianamente. Los principios parecen abstractos, mientras las decisiones siempre son concretas. Este agente permite a un equipo de ingenieros desplegar un sistema responsable cualquier lunes a las 9 a.m. 
