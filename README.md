@@ -13,14 +13,14 @@
 _Lunes 9 a.m._ es tu asistente RAG especializado en gobernanza de Inteligencia Artificial. Su objetivo es traducir marcos internacionales de gobernanza en decisiones técnicas concretas que puedan ser utilizadas por equipos de desarrollo durante el ciclo de vida de un sistema de IA.
 
 
-### ¿Qué problema resuelve?
+## ¿Qué problema resuelve?
 
 Los equipos de desarrollo deben tomar decisiones relacionadas con gobernanza de IA durante el entrenamiento, evaluación y despliegue de modelos. Sin embargo, la información suele encontrarse dispersa entre normas, recomendaciones y documentación extensa.
 
 Lunes 9 a.m. reúne ese conocimiento y lo traduce en orientación práctica respaldada por documentación oficial.
 
 
-### Objetivo
+## Objetivo
 
 El proyecto busca reducir la distancia entre la teoría de la Gobernanza de IA y las decisiones cotidianas de ingeniería.
 
@@ -31,7 +31,7 @@ No reemplaza auditorías, asesoramiento legal ni procesos formales de compliance
 Su propósito es facilitar **una primera capa de gobernanza responsable durante el desarrollo y despliegue de sistemas de IA**.
 
 
-### Arquitectura lógica:
+## Arquitectura lógica:
 
 
 ```
@@ -63,7 +63,7 @@ Orientación práctica      Fundamentación
 ```
 
 
-# Ejemplos de preguntas de usuarios
+## Ejemplos de preguntas de usuarios
 
 - _¿Qué debería revisar antes de desplegar un chatbot?_
 - _¿Qué documentación debería existir para entrenar un modelo?_
@@ -81,7 +81,7 @@ Usuario > ¿Qué debería revisar antes de entrenar un modelo con CVs?
 Respuesta... **PENDIENTE!**
 
 
-# El conocimiento del agente
+## El conocimiento del agente
 
 El corpus documental del asistente proviene de documentación oficial y material propio. Actualmente, incluye:
 
@@ -93,7 +93,7 @@ El corpus documental del asistente proviene de documentación oficial y material
 
 
 
-# El comportamiento del agente
+## El comportamiento del agente
 
 * Recupera información mediante RAG.
 * Responde basado en la información documental.
@@ -103,7 +103,7 @@ El corpus documental del asistente proviene de documentación oficial y material
 
 
 
-# Tecnologías
+## Tecnologías
 
 - Python
 - LangChain
@@ -113,7 +113,7 @@ El corpus documental del asistente proviene de documentación oficial y material
 - Oracle Cloud Infrastructure (OCI)
 
 
-# Cómo ejecutar. **PENDIENTE!**
+## Cómo ejecutar **PENDIENTE!**
 
 ```
 git clone ...
@@ -125,13 +125,13 @@ python chatbot.py
 
 ---
 
-# Deploy. 
+## Deploy **PENDIENTE!** 
 
-captura o URL OCI **PENDIENTE!**
+(captura o URL OCI) 
 
 ---
 
-# Validación **PENDIENTE!**
+## Validación **PENDIENTE!**
 
 ```
 El agente fue validado realizando consultas relacionadas con:
@@ -149,7 +149,7 @@ El agente fue validado realizando consultas relacionadas con:
 En todos los casos las respuestas fueron obtenidas exclusivamente a partir del corpus documental.
 ```
 
-# Limitaciones. **PENDIENTE!**
+## Limitaciones **PENDIENTE!**
 
 ```
 Limitaciones actuales
@@ -166,7 +166,7 @@ Limitaciones actuales
 ```
 
 
-# Sobre el nombre
+## Sobre el nombre
 
 Existe una enorme distancia entre los marcos internacionales de Gobernanza de IA y las decisiones que los equipos técnicos deben tomar todos los días.
 
@@ -176,7 +176,7 @@ Mientras los principios suelen presentarse de forma abstracta, las decisiones si
 
 
 
-# El origen y futuro del proyecto
+## El origen y futuro del proyecto
 
 Lunes 9 a.m. nació como un proyecto personal para explorar una pregunta sencilla: ¿cómo hacer que la gobernanza de IA resulte útil para quienes tienen que implementar sistemas y tomar decisiones bajo presión? La mejor recomendación ética es aquella que un equipo puede aplicar antes del próximo deployment.
 
