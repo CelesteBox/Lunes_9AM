@@ -4,11 +4,8 @@
 
 
 > Tienes un despliegue programado para el mediodía.
-
 > Tu equipo está integrando un nuevo conjunto de datos, lanzando un chatbot o evaluando un LLM.
-
 > No necesitas leer cinco documentos técnicos antes de la reunión.
-
 > Necesitas saber qué revisar, por qué es importante y qué documentación debe existir antes de lanzar.
 
 
