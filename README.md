@@ -74,11 +74,11 @@ Orientación práctica      Fundamentación
 A modo de ejemplo: 
 Usuario > Voy a desplegar un chatbot interno para RRHH.
 
-# El agente responde: Riesgos principales, documentación recomendada, supervisión humana y referencias del corpus documental (como OECD y NIST). xxxxxxxxxxxxxxxxxxxxxxxxx
+El agente responde: Riesgos principales, documentación recomendada, supervisión humana y referencias del corpus documental (como OECD y NIST). **PENDIENTE!**
 
 Usuario > ¿Qué debería revisar antes de entrenar un modelo con CVs?
 
-Respuesta... xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Respuesta... **PENDIENTE!**
 
 
 # El conocimiento del agente
@@ -113,7 +113,7 @@ El corpus documental del asistente proviene de documentación oficial y material
 - Oracle Cloud Infrastructure (OCI)
 
 
-# 6 Cómo ejecutar. Esto HOY no está. Y Alura lo pide. Algo tan simple como
+# Cómo ejecutar. **PENDIENTE!**
 
 ```
 git clone ...
@@ -123,18 +123,15 @@ pip install -r requirements.txt
 python chatbot.py
 ```
 
-Después lo actualizamos.
 ---
 
-# 7 Deploy. Acá irá
+# Deploy. 
 
-captura o URL OCI
+captura o URL OCI **PENDIENTE!**
 
 ---
 
-# 8 Validación
-
-Esto casi nadie lo pone. Y justamente por eso te diferencia. Algo sencillo. 
+# Validación **PENDIENTE!**
 
 ```
 El agente fue validado realizando consultas relacionadas con:
@@ -152,10 +149,7 @@ El agente fue validado realizando consultas relacionadas con:
 En todos los casos las respuestas fueron obtenidas exclusivamente a partir del corpus documental.
 ```
 
-Eso es exactamente una validación.
-
----
-# 9 Limitaciones. Esto me parece MUY importante. Porque además coincide con tu filosofía. Algo así.
+# Limitaciones. **PENDIENTE!**
 
 ```
 Limitaciones actuales
@@ -171,12 +165,6 @@ Limitaciones actuales
 • Puede requerir ampliar el corpus para dominios específicos.
 ```
 
-Eso transmite honestidad.
-
-
-
-
-
 
 # Sobre el nombre
 
@@ -188,7 +176,7 @@ Mientras los principios suelen presentarse de forma abstracta, las decisiones si
 
 
 
-# Sobre el proyecto
+# El origen y futuro del proyecto
 
 Lunes 9 a.m. nació como un proyecto personal para explorar una pregunta sencilla: ¿cómo hacer que la gobernanza de IA resulte útil para quienes tienen que implementar sistemas y tomar decisiones bajo presión? La mejor recomendación ética es aquella que un equipo puede aplicar antes del próximo deployment.
 
