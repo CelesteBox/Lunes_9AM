@@ -15,24 +15,34 @@ _Lunes 9 a.m._ es tu copiloto de gobernanza de IA que te permitirá tomar decisi
 
 Tiene una arquitectura de dos capas:
 
+
 ```
 
-PREGUNTA DEL USUARIO: "Estoy desplegando un chatbot de atención al cliente."
-	                             │
-          ┌──────────────────────┴───────────────────────┐
-          │    		                                     │
+Arquitectura lógica:
 
-  Orientación Práctica                    Por qué es importante
-    (_Lunes 9 a.m._)                      (Capa de Gobernanza)
-
-Acción: _¿Qué debo hacer?_       Razonamiento: _¿Por qué recomiendo esto?_
- Lista de verificación                   Principio de la OCDE 
-      Riesgos                                Referencias
-     Preguntas                              Justificación
-   Documentación                          Lecturas adicionales
-        │			                                    │
-        └───────────────────────┬───────────────────────┘
-                         Respuesta Final
+                Usuario
+                   │
+                   ▼
+        Pregunta en lenguaje natural
+                   │
+                   ▼
+          Recuperación de conocimiento
+            (PDFs + Checklist propio)
+                   │
+                   ▼
+      Fragmentos relevantes del corpus
+                   │
+                   ▼
+            Modelo de Lenguaje (LLM)
+                   │
+      ┌────────────┴────────────┐
+      │                         │
+Orientación práctica      Fundamentación
+(Checklists)             (OECD/NIST/etc.)
+      │                         │
+      └────────────┬────────────┘
+                   ▼
+            Respuesta final
 
 ```
 
@@ -44,4 +54,4 @@ Por eso, si alguna vez te preguntaste: _"Tengo que desplegar esto hoy. ¿Qué ne
 
 ### ¿Y por qué se llama _Lunes 9 a.m._? 
 
-Porque promovemos una inteligencia artificial ética. Y eso se concreta en decisiones que puedan ser tomada antes de desplegar un lunes a las 9 a.m.
+Detectamos un problema: Existe una enorme distancia entre lo que demandan los marcos de Gobernanza de IA y la tarea concreta de quienes despliegan IA cotidianamente. Los principios parecen abstractos, mientras las decisiones siempre son concretas. Este agente permite a un equipo de ingenieros desplegar un sistema responsable cualquier lunes a las 9 a.m. 
