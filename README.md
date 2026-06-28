@@ -2,21 +2,20 @@
 ### Gobernanza de Inteligencia Artificial para equipos que necesitan decisiones, no filosofía.
 ---
 
-> Tienes un despliegue programado para el mediodía.
-> Tu equipo está integrando un nuevo conjunto de datos, lanzando un chatbot o evaluando un LLM.
-> No necesitas leer cinco documentos técnicos antes de la reunión.
-> Necesitas saber **qué revisar, por qué es importante y qué documentación debe existir antes de lanzar**.
+_Tienes un despliegue programado para el mediodía._
+_Tu equipo está integrando un nuevo conjunto de datos, lanzando un chatbot o evaluando un LLM._
+_No necesitas leer cinco documentos técnicos antes de la reunión._
+_Necesitas saber **qué revisar, por qué es importante y qué documentación debe existir antes de lanzar**._
 
 
 
-_Lunes 9 a.m._ es tu asistente RAG especializado en gobernanza de Inteligencia Artificial. Su objetivo es traducir marcos internacionales de gobernanza en decisiones técnicas concretas que puedan ser utilizadas por equipos de desarrollo durante el ciclo de vida de un sistema de IA.
 
 
 ## ¿Qué problema resuelve?
 
 Los equipos de desarrollo deben tomar decisiones relacionadas con gobernanza de IA durante el entrenamiento, evaluación y despliegue de modelos. Sin embargo, la información suele encontrarse dispersa entre normas, recomendaciones y documentación extensa.
 
-Lunes 9 a.m. reúne ese conocimiento y lo traduce en orientación práctica respaldada por documentación oficial.
+_Lunes 9 a.m._ es un asistente RAG especializado en gobernanza de Inteligencia Artificial. Traduce marcos internacionales de gobernanza en **decisiones técnicas concretas** que puedan ser utilizadas por equipos de desarrollo durante el ciclo de vida de un sistema de IA.
 
 
 ## Objetivo
