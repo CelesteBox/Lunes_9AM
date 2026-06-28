@@ -43,7 +43,7 @@ Orientación práctica      Fundamentación
             Respuesta final
 
 ```
-### Arquitectura y system_prompt.md
+### Arquitectura y el system_prompt.md
 
 El comportamiento del agente está diseñado deliberadamente para privilegiar decisiones prácticas. También pondera su transparencia y trazabilidad.
 
