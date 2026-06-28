@@ -43,9 +43,9 @@ Orientación práctica      Fundamentación
             Respuesta final
 
 ```
-### El comportamiento del agente
+### Sobre el system prompt
 
-El system prompt orienta deliberadamente al agente a privilegiar decisiones prácticas. También pondera su transparencia y trazabilidad.
+Este archivo orienta al agente a privilegiar decisiones prácticas, transparentes y trazables.
 
 ### Objetivo
 
