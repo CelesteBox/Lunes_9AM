@@ -43,13 +43,12 @@ Orientación práctica      Fundamentación
             Respuesta final
 
 ```
-### Sobre el system prompt
-
-Este archivo orienta al agente a privilegiar decisiones prácticas, transparentes y trazables.
 
 ### Objetivo
 
 _Lunes 9 a.m._ combina marcos internacionales de gobernanza de la IA con listas de verificación prácticas, evaluaciones de riesgos y orientación de implementación.
+
+Posee un system prompt que orienta al agente a privilegiar decisiones prácticas, transparentes y trazables.
 
 No reemplaza auditorías, evaluaciones legales ni procesos formales de gobernanza. Su objetivo es ayudar a incorporar una primera capa de buenas prácticas y decisiones defendibles durante el desarrollo y despliegue de sistemas de IA.
 
