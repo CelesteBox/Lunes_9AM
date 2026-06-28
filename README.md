@@ -43,9 +43,9 @@ Orientación práctica      Fundamentación
             Respuesta final
 
 ```
-### El system_prompt.md en la arquitectura
+### El system_prompt en la arquitectura
 
-El comportamiento del agente está diseñado deliberadamente para privilegiar decisiones prácticas. También pondera su transparencia y trazabilidad.
+En el system_prompt.md se orienta deliberadamente el comportamiento del agente a privilegiar decisiones prácticas. También pondera su transparencia y trazabilidad.
 
 ### Objetivo
 
