@@ -64,7 +64,7 @@ Orientación práctica      Fundamentación
 - _¿Qué principios de la OECD se relacionan con transparencia?_
 - _¿Qué mecanismos de supervisión humana recomiendan los organismos internacionales?_
 
----
+
 
 # El conocimiento del agente
 
@@ -76,7 +76,7 @@ El conocimiento del asistente proviene de documentación oficial y material prop
 * EU AI Act (resumen oficial)
 * AI Deployment Readiness Checklist (propio)
 
----
+
 
 # El comportamiento del agente
 
@@ -86,7 +86,7 @@ El conocimiento del asistente proviene de documentación oficial y material prop
 * Evita generar recomendaciones sin respaldo documental.
 * Transparenta las limitaciones del corpus.
 
----
+
 
 # Tecnologías
 
@@ -97,7 +97,7 @@ El conocimiento del asistente proviene de documentación oficial y material prop
 - GitHub
 - Oracle Cloud Infrastructure (OCI)
 
----
+
 
 # Sobre el nombre
 
@@ -107,7 +107,7 @@ Mientras los principios suelen presentarse de forma abstracta, las decisiones si
 
 **Lunes 9 a.m.** busca cerrar esa brecha, ofreciendo orientación práctica respaldada por documentación oficial para que un equipo pueda tomar decisiones responsables antes de un despliegue.
 
----
+
 
 # Sobre el proyecto
 
