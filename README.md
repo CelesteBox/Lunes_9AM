@@ -53,8 +53,7 @@ _Lunes 9 a.m._ combina marcos internacionales de gobernanza de la IA con listas 
 
 No reemplaza auditorías, evaluaciones legales ni procesos formales de gobernanza. Su objetivo es ayudar a incorporar una primera capa de buenas prácticas y decisiones defendibles durante el desarrollo y despliegue de sistemas de IA.
 
-Por eso, si alguna vez te preguntaste: _"Tengo que desplegar esto hoy. ¿Qué necesito revisar para poder defender mi decisión?"_, esto es lo que deberías revisar antes de decidir.
 
-### ¿Y por qué se llama _Lunes 9 a.m._? 
+### ¿Y por qué "_Lunes 9 a.m._"? 
 
 Detectamos un problema: Existe una enorme distancia entre lo que demandan los marcos de Gobernanza de IA y la tarea concreta de quienes despliegan IA cotidianamente. Los principios parecen abstractos, mientras las decisiones siempre son concretas. Este agente permite a un equipo de ingenieros desplegar un sistema responsable cualquier lunes a las 9 a.m. 
