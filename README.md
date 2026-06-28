@@ -11,7 +11,7 @@
 
 ---
 
-_Lunes 9 a.m._ es tu copiloto de gobernanza que apoya en la toma de decisiones: Cierra la brecha de implementación entre los marcos de gobernanza de la IA y las decisiones de ingeniería del día a día.
+_Lunes 9 a.m._ es tu copiloto de gobernanza de IA que te permitirá tomar decisiones de ingeniería del día a día. Implementables. Concretas. 
 
 
 Tiene una arquitectura de dos capas:
