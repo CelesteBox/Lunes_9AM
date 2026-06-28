@@ -31,7 +31,7 @@ No reemplaza auditorías, asesoramiento legal ni procesos formales de compliance
 Su propósito es facilitar **una primera capa de gobernanza responsable durante el desarrollo y despliegue de sistemas de IA**.
 
 
-## Arquitectura lógica:
+## Arquitectura lógica
 
 
 ```
@@ -176,7 +176,7 @@ Mientras los principios suelen presentarse de forma abstracta, las decisiones si
 
 
 
-## El origen y futuro del proyecto
+## Origen y futuro del proyecto
 
 Lunes 9 a.m. nació como un proyecto personal para explorar una pregunta sencilla: ¿cómo hacer que la gobernanza de IA resulte útil para quienes tienen que implementar sistemas y tomar decisiones bajo presión? La mejor recomendación ética es aquella que un equipo puede aplicar antes del próximo deployment.
 
