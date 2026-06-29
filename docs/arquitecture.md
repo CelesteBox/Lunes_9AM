@@ -4,7 +4,7 @@ Lunes 9 a.m. implementa un asistente RAG (Retrieval-Augmented Generation) especi
 
 ## Flujo general
 
-Usuario --> 
+Usuario 
 
 ↓
 
