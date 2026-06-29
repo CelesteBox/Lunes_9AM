@@ -5,15 +5,25 @@ Lunes 9 a.m. implementa un asistente RAG (Retrieval-Augmented Generation) especi
 ## Flujo general
 
 Usuario
+
 ↓
+
 Pregunta en lenguaje natural
+
 ↓
+
 Recuperación de información del corpus documental
+
 ↓
+
 Selección de los fragmentos más relevantes
+
 ↓
+
 Modelo de Lenguaje (LLM)
+
 ↓
+
 Respuesta fundamentada
 
 ## Corpus documental
