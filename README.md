@@ -153,20 +153,21 @@ El agente fue validado realizando consultas relacionadas con:
 En todos los casos las respuestas fueron obtenidas exclusivamente a partir del corpus documental.
 ```
 
-## Limitaciones **PENDIENTE!**
+
+## Limitaciones actuales
 
 ```
-Limitaciones actuales
 
 • El agente sólo responde utilizando la documentación incluida en el corpus.
 
-• No reemplaza asesoramiento jurídico.
+• Puede requerir ampliar el corpus a la inclusión de normativa nacional específica y/o relacionada.
 
-• No interpreta legislación nacional.
+• Puede requerir ampliar el corpus para dominios específicos.
+
+• No reemplaza asesoramiento jurídico.
 
 • No realiza certificaciones de cumplimiento.
 
-• Puede requerir ampliar el corpus para dominios específicos.
 ```
 
 
