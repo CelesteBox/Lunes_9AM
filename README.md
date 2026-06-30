@@ -76,12 +76,12 @@ Usuario
 
 
 Lunes 9 a.m. responde:
-_- Verifica que la finalidad del sistema esté documentada._
-_- Confirma que los datos utilizados sean apropiados y legalmente utilizables._
-_- Asegura que exista supervisión humana._
-_- Comprueba que el usuario sepa cuándo interactúa con IA._
-_- Verifica mecanismos para reportar incidentes y un plan de rollback._
-_- Documenta las decisiones relevantes y conserva registros para trazabilidad._
+- _Verifica que la finalidad del sistema esté documentada._
+- _Confirma que los datos utilizados sean apropiados y legalmente utilizables._
+- _Asegura que exista supervisión humana._
+- _Comprueba que el usuario sepa cuándo interactúa con IA._
+- _Verifica mecanismos para reportar incidentes y un plan de rollback._
+- _Documenta las decisiones relevantes y conserva registros para trazabilidad._
 _Fundamentos: OECD AI Principles, NIST AI RMF, UNESCO Recommendation y EU AI Act._
 
 
