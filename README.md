@@ -10,7 +10,6 @@ _Necesitas saber **qué revisar, por qué es importante y qué documentación de
 
 
 
-
 ## ¿Qué problema resuelve?
 
 Los equipos de desarrollo deben tomar decisiones relacionadas con gobernanza de IA durante el entrenamiento, evaluación y despliegue de modelos. Sin embargo, la información suele encontrarse dispersa entre normas, recomendaciones y documentación extensa.
@@ -63,7 +62,6 @@ Orientación práctica      Fundamentación
 
 ## Ejemplos de preguntas de usuarios
 
-- _Tengo un deployment el lunes a las 9:00. ¿Qué debería revisar antes de lanzar el sistema?_
 - _¿Qué debería revisar antes de desplegar un chatbot?_
 - _¿Qué documentación debería existir para entrenar un modelo?_
 - _Voy a entrenar un modelo con CVs. ¿Qué riesgos debería evaluar?_
@@ -72,7 +70,10 @@ Orientación práctica      Fundamentación
 
 A modo de ejemplo: 
 
-Usuario > Tengo un deployment el lunes a las 9:00. No tengo tiempo para leer toda la documentación. ¿Qué debería revisar antes de lanzar el sistema?
+Usuario 
+
+> Tengo un deployment el lunes a las 9:00. No tengo tiempo para leer toda la documentación. ¿Qué debería revisar antes de lanzar el sistema?
+
 
 Lunes 9 a.m. responde:
 _- Verifica que la finalidad del sistema esté documentada._
