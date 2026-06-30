@@ -63,20 +63,25 @@ Orientación práctica      Fundamentación
 
 ## Ejemplos de preguntas de usuarios
 
+- _Tengo un deployment el lunes a las 9:00. ¿Qué debería revisar antes de lanzar el sistema?_
 - _¿Qué debería revisar antes de desplegar un chatbot?_
 - _¿Qué documentación debería existir para entrenar un modelo?_
+- _Voy a entrenar un modelo con CVs. ¿Qué riesgos debería evaluar?_
 - _¿Cómo recomienda NIST gestionar riesgos en IA?_
-- _¿Qué principios de la OECD se relacionan con transparencia?_
 - _¿Qué mecanismos de supervisión humana recomiendan los organismos internacionales?_
 
 A modo de ejemplo: 
-Usuario > Voy a desplegar un chatbot interno para RRHH.
 
-El agente responde: Riesgos principales, documentación recomendada, supervisión humana y referencias del corpus documental (como OECD y NIST). **PENDIENTE!**
+Usuario > Tengo un deployment el lunes a las 9:00. No tengo tiempo para leer toda la documentación. ¿Qué debería revisar antes de lanzar el sistema?
 
-Usuario > ¿Qué debería revisar antes de entrenar un modelo con CVs?
-
-Respuesta... **PENDIENTE!**
+Lunes 9 a.m. responde:
+_- Verifica que la finalidad del sistema esté documentada._
+_- Confirma que los datos utilizados sean apropiados y legalmente utilizables._
+_- Asegura que exista supervisión humana._
+_- Comprueba que el usuario sepa cuándo interactúa con IA._
+_- Verifica mecanismos para reportar incidentes y un plan de rollback._
+_- Documenta las decisiones relevantes y conserva registros para trazabilidad._
+_Fundamentos: OECD AI Principles, NIST AI RMF, UNESCO Recommendation y EU AI Act._
 
 
 ## El conocimiento del agente
