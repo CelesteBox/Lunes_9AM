@@ -139,6 +139,6 @@ Debe reconocer que la consulta es técnica pero **no pertenece al alcance del pr
 
 **Caso 20**
 
-> Si sólo pudiera hacer tres cosas antes del deployment, ¿cuáles serían?
+> Si sólo pudiera hacer tres cosas antes del deployment, ¿Cuáles serían?
 
 ---
