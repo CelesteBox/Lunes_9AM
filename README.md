@@ -183,16 +183,16 @@ Mientras los principios suelen presentarse de forma abstracta, las decisiones si
 
 ## Origen y futuro del proyecto
 
-Lunes 9 a.m. nació como un proyecto personal para explorar una pregunta sencilla: ¿cómo hacer que la gobernanza de IA resulte útil para quienes tienen que implementar sistemas y tomar decisiones bajo presión? La mejor recomendación ética es aquella que un equipo puede aplicar antes del próximo deployment.
+Lunes 9 a.m. nació de una inquietud personal: ¿Cómo hacer que la gobernanza de IA sea una capa más del trabajo de quienes implementan sistemas? Al final del día, la mejor recomendación ética es aquella que efectivamente forma parte del sistema antes del próximo deployment.
 
-Lunes 9 a.m. es un traductor de marcos internacionales de gobernanza en decisiones técnicas que un equipo puede aplicar antes del próximo despliegue. Comienza como la entrega del primer Challenge del Programa Oracle Next Education 2026 - Alura Latam, y continuará evolucionando como un proyecto abierto. Puede incorporar en próximas versiones: 
+Lunes 9 a.m. comienza como la entrega del primer Challenge del Programa Oracle Next Education - Alura Latam 2026, y continuará evolucionando como un proyecto abierto. Puede incorporar en próximas versiones: 
 
 ```
-• nuevos dominios (salud, educación, sector público)
-• plantillas automáticas de documentación
-• generación de reportes de gobernanza
-• integración con nuevas fuentes regulatorias
-• soporte multilingüe
+• Nuevos dominios (salud, educación, sector público)
+• Plantillas automáticas de documentación
+• Generación de reportes de gobernanza
+• Integración con nuevas fuentes regulatorias
+• Aoporte multilingüe
 ```
 
 
