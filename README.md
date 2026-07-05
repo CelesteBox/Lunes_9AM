@@ -14,7 +14,7 @@ _Necesitas saber **qué revisar, por qué es importante y qué documentación de
 
 Los equipos de desarrollo deben tomar decisiones relacionadas con gobernanza de IA durante el entrenamiento, evaluación y despliegue de modelos. Sin embargo, la información suele encontrarse dispersa entre normas, recomendaciones y documentación extensa.
 
-_Lunes 9 a.m._ es un asistente RAG especializado en gobernanza de Inteligencia Artificial. Traduce marcos internacionales de gobernanza en **decisiones técnicas concretas** que puedan ser utilizadas por equipos de desarrollo durante el ciclo de vida de un sistema de IA.
+_Lunes 9 a.m._ es un asistente RAG especializado en gobernanza de Inteligencia Artificial. Recupera información de marcos internacionales y genera respuestas contextualizadas para apoyar decisiones técnicas.
 
 
 ## Objetivo
@@ -46,7 +46,7 @@ Su propósito es facilitar **una primera capa de gobernanza responsable durante 
       Fragmentos relevantes del corpus
                    │
                    ▼
-            Modelo de Lenguaje (LLM)
+            Gemini 2.5 Flash
                    │
       ┌────────────┴────────────┐
       │                         │
@@ -105,6 +105,33 @@ El corpus documental del asistente proviene de documentación oficial y material
 * Evita generar recomendaciones sin respaldo documental.
 * Transparenta las limitaciones del corpus.
 
+## Estructura del proyecto
+
+Lunes-9AM/
+│
+├── main.py
+├── requirements.txt
+├── README.md
+│
+├── data/
+│ └── raw/
+│
+└── notebooks/
+
+rag_experiments.ipynb
+
+
+## Dataset utilizado
+
+El corpus actual incluye documentos oficiales sobre Gobernanza de IA:
+
+• EU AI Overview (May 30, 2024)
+• OECD AI Principles
+• UNESCO Ethics of AI
+• NIST AI Risk Management Framework
+• NIST AI RMF Playbook 
+
+Los documentos se cargan localmente mediante PyPDF y se indexan utilizando FAISS y Sentence Transformers.
 
 
 ## Tecnologías
@@ -113,23 +140,27 @@ El corpus documental del asistente proviene de documentación oficial y material
 - LangChain
 - PyPDF
 - Google Colab
+- FAISS
+- Sentence Transformers
 - GitHub
 - Oracle Cloud Infrastructure (OCI)
 
 
-## Cómo ejecutar **PENDIENTE!**
+## Cómo ejecutar
 
 ```
 git clone ...
 
+cd lunes-9am
+
 pip install -r requirements.txt
 
-python chatbot.py
+python main.py
 ```
 
 ---
 
-## Deploy **PENDIENTE!** 
+## Deploy (en desarrollo)
 
 (captura o URL OCI) 
 
@@ -183,7 +214,7 @@ Mientras los principios suelen presentarse de forma abstracta, las decisiones si
 
 ## Origen y futuro del proyecto
 
-Lunes 9 a.m. nació de una inquietud personal: ¿Cómo hacer que la gobernanza de IA sea una capa más del trabajo de quienes implementan sistemas? Al final del día, la mejor recomendación ética es aquella que efectivamente forma parte del sistema antes del próximo deployment.
+La gobernanza de IA no comienza cuando aparece un regulador. Comienza cuando un equipo técnico decide qué sistema va a poner en producción el lunes a las 9 de la mañana.
 
 Lunes 9 a.m. comienza como la entrega del primer Challenge del Programa Oracle Next Education - Alura Latam 2026, y continuará evolucionando como un proyecto abierto. Puede incorporar en próximas versiones: 
 
@@ -192,7 +223,7 @@ Lunes 9 a.m. comienza como la entrega del primer Challenge del Programa Oracle N
 • Plantillas automáticas de documentación
 • Generación de reportes de gobernanza
 • Integración con nuevas fuentes regulatorias
-• Aoporte multilingüe
+• Soporte multilingüe
 ```
 
 
