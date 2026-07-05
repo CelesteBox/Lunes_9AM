@@ -1,17 +1,4 @@
 # ==========================================
-# INSTALACIÓN (solo si usás Google Colab)
-# ==========================================
-
-# !pip install -q langchain
-# !pip install -q langchain-community
-# !pip install -q langchain-google-genai
-# !pip install -q langchain-text-splitters
-# !pip install -q faiss-cpu
-# !pip install -q pypdf
-# !pip install -q sentence-transformers
-
-
-# ==========================================
 # IMPORTS
 # ==========================================
 
@@ -28,7 +15,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 # CONFIGURACIÓN
 # ==========================================
 
-os.environ["GOOGLE_API_KEY"] = "TU_API_KEY_AQUI"
+os.environ["GOOGLE_API_KEY"] = input("Pegá tu Google API Key: ")
 
 
 # ==========================================
@@ -37,7 +24,7 @@ os.environ["GOOGLE_API_KEY"] = "TU_API_KEY_AQUI"
 
 print("Cargando documentos...")
 
-loader = PyPDFDirectoryLoader("sample_data/data/raw")
+loader = PyPDFDirectoryLoader("data/raw")
 documents = loader.load()
 
 print(f"{len(documents)} documentos cargados.")
