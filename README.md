@@ -64,7 +64,6 @@ Orientación práctica      Fundamentación
 
 - _¿Qué debería revisar antes de desplegar un chatbot?_
 - _¿Qué documentación debería existir para entrenar un modelo?_
-- _Voy a entrenar un modelo con CVs. ¿Qué riesgos debería evaluar?_
 - _¿Cómo recomienda NIST gestionar riesgos en IA?_
 - _¿Qué mecanismos de supervisión humana recomiendan los organismos internacionales?_
 
@@ -166,22 +165,29 @@ python main.py
 
 ---
 
-## Validación **PENDIENTE!**
+## Validación 
 
 ```
 El agente fue validado realizando consultas relacionadas con:
 
-✓ chatbots
-
-✓ datasets
-
 ✓ transparencia
-
 ✓ supervisión humana
-
 ✓ documentación requerida
 
-En todos los casos las respuestas fueron obtenidas exclusivamente a partir del corpus documental.
+En todos los casos las respuestas fueron obtenidas exclusivamente a partir del corpus documental. Por ejemplo: 
+
+Pregunta: ¿Cuál es el primer principio de la OCDE para una IA responsable?
+Respuesta: El primer principio de la OCDE para una IA responsable es "Crecimiento inclusivo, desarrollo sostenible y bienestar (Inclusive growth, sustainable development and well-being)"
+
+Pregunta: ¿Qué recomienda la UNESCO sobre supervisión humana?
+Respuesta: La UNESCO recomienda que los "actores de la IA deben respetar la libertad, la dignidad, la privacidad y la justicia social. Esto incluye abordar la desinformación y **garantizar la supervisión humana para evitar el uso indebido.**"
+
+Pregunta: ¿Qué hace a un sistema de IA robusto?
+Respuesta: Según el contexto, los sistemas de IA deben ser "seguros durante todo su ciclo de vida". Además, para ser robustos, "deben existir mecanismos para anular, reparar o retirar sistemas que causen daños indebidos o muestren comportamientos no deseados."
+
+Pregunta: ¿Quién es Lionel Messi?
+Respuesta: La información no está disponible en los documentos consultados.
+
 ```
 
 
