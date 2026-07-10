@@ -104,19 +104,31 @@ El corpus documental del asistente proviene de documentación oficial y material
 * Evita generar recomendaciones sin respaldo documental.
 * Transparenta las limitaciones del corpus.
 
+
 ## Estructura del proyecto
 
-Lunes-9AM/
-│
-├── main.py
-├── requirements.txt
-├── README.md
+```text
+Lunes-9am/
 │
 ├── data/
-│ └── raw/
+│   └── raw/
+│       ├── UNESCO_Ethics_of_AI_ES.pdf
+│       ├── OECD_AI_Principles_ES.pdf
+│       ├── NIST_AI_RMF.pdf
+│       └── EU_AI_Act_Resumen.pdf
 │
-└── notebooks/
-
+├── docs/
+│   ├── alcance_y_limitaciones.md
+│   ├── arquitectura.md
+│   ├── ejemplos_de_consultas.md
+│   └── system_prompt.md
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+├── main.py
+└── requirements.txt
+```
 rag_experiments.ipynb
 
 
