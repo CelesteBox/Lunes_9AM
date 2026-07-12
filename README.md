@@ -195,29 +195,29 @@ En todos los casos las respuestas fueron obtenidas exclusivamente a partir del c
 
 Pregunta: ¿Qué principios recomienda la OCDE para la gobernanza de la IA?
 Respuesta: Los principios que la OCDE recomienda para la gobernanza de la inteligencia artificial, según el documento, son:
-    *   Crecimiento inclusivo, desarrollo sostenible y bienestar.
-    *   Responsabilidad.
-**Riesgos relevantes.**
-    *   **Para "Crecimiento inclusivo, desarrollo sostenible y bienestar":** El riesgo principal es que los sistemas de IA no contribuyan a estos objetivos o, peor aún, los socaven, por ejemplo, al exacerbar desigualdades o impactar negativamente el medio ambiente.
-    *   **Para "Responsabilidad":** La falta de trazabilidad de los procesos y una gestión de riesgos inadecuada pueden llevar a la imposibilidad de identificar las causas de fallos o impactos negativos, dificultando la rendición de cuentas.
-**Acciones recomendadas.**
-    *   **Para "Crecimiento inclusivo, desarrollo sostenible y bienestar":**
-        *   Integrar métricas de impacto social y ambiental en el diseño y evaluación de los sistemas de IA.
-        *   Priorizar el desarrollo de IA que demuestre potencial para reducir desigualdades y promover la sostenibilidad.
-    *   **Para "Responsabilidad":**
-        *   Establecer y mantener registros detallados de la trazabilidad de los sistemas de IA, incluyendo datos de entrenamiento, algoritmos, decisiones de diseño y versiones.
-        *   Implementar un marco sistemático de gestión de riesgos que cubra todo el ciclo de vida del sistema de IA, desde el diseño hasta el despliegue y la operación.
-        *   Definir claramente los roles y responsabilidades para el desarrollo, despliegue y operación de los sistemas de IA.
-**Documentación que debería existir.**
-    *   Evaluaciones de impacto ético y social (incluyendo análisis de desigualdades y sostenibilidad).
-    *   Registros de trazabilidad del sistema de IA (ej. logs de entrenamiento, versiones del modelo, decisiones de diseño).
-    *   Planes de gestión de riesgos de IA.
-    *   Políticas internas de gobernanza de IA que asignen responsabilidades específicas.
-**Fundamento normativo.**
+   - Crecimiento inclusivo, desarrollo sostenible y bienestar.
+   - Responsabilidad.
+Riesgos relevantes.
+   - Para "Crecimiento inclusivo, desarrollo sostenible y bienestar": El riesgo principal es que los sistemas de IA no contribuyan a estos objetivos o, peor aún, los socaven, por ejemplo, al exacerbar desigualdades o impactar negativamente el medio ambiente.
+   - Para "Responsabilidad": La falta de trazabilidad de los procesos y una gestión de riesgos inadecuada pueden llevar a la imposibilidad de identificar las causas de fallos o impactos negativos, dificultando la rendición de cuentas.
+Acciones recomendadas.
+   - Para "Crecimiento inclusivo, desarrollo sostenible y bienestar":
+        Integrar métricas de impacto social y ambiental en el diseño y evaluación de los sistemas de IA.
+        Priorizar el desarrollo de IA que demuestre potencial para reducir desigualdades y promover la sostenibilidad.
+   - Para "Responsabilidad":
+        Establecer y mantener registros detallados de la trazabilidad de los sistemas de IA, incluyendo datos de entrenamiento, algoritmos, decisiones de diseño y versiones.
+        Implementar un marco sistemático de gestión de riesgos que cubra todo el ciclo de vida del sistema de IA, desde el diseño hasta el despliegue y la operación.
+        Definir claramente los roles y responsabilidades para el desarrollo, despliegue y operación de los sistemas de IA.
+Documentación que debería existir.
+    Evaluaciones de impacto ético y social (incluyendo análisis de desigualdades y sostenibilidad).
+    Registros de trazabilidad del sistema de IA (ej. logs de entrenamiento, versiones del modelo, decisiones de diseño).
+    Planes de gestión de riesgos de IA.
+    Políticas internas de gobernanza de IA que asignen responsabilidades específicas.
+Fundamento normativo.
     Los principios se basan en los "Principios basados en valores" de los OECD AI Principles:
-    *   "1.1 - Crecimiento inclusivo, desarrollo sostenible y bienestar (Inclusive growth, sustainable development and well-being): La IA debe contribuir al crecimiento y la prosperidad global, aumentando las capacidades humanas, reduciendo las desigualdades y protegiendo..."
-    *   "1.5 - Responsabilidad (Accountability): Las organizaciones e individuos que desarrollan u operan sistemas de IA deben rendir cuentas de su funcionamiento, garantizando la trazabilidad de los procesos y aplicando una gestión sistemática de riesgos."
-**Limitaciones.**
+    "1.1 - Crecimiento inclusivo, desarrollo sostenible y bienestar (Inclusive growth, sustainable development and well-being): La IA debe contribuir al crecimiento y la prosperidad global, aumentando las capacidades humanas, reduciendo las desigualdades y protegiendo..."
+    "1.5 - Responsabilidad (Accountability): Las organizaciones e individuos que desarrollan u operan sistemas de IA deben rendir cuentas de su funcionamiento, garantizando la trazabilidad de los procesos y aplicando una gestión sistemática de riesgos."
+Limitaciones.
     El extracto proporcionado es un resumen de los Principios de la OCDE y solo detalla dos de los principios basados en valores (1.1 y 1.5). Es posible que la versión completa de los Principios de la OCDE incluya otros principios que no están presentes en este fragmento.
 
 Pregunta: ¿Qué riesgos debería documentar un equipo antes de desplegar un sistema de Inteligencia Artificial?
