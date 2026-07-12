@@ -123,6 +123,10 @@ Lunes-9am/
 │   ├── ejemplos_de_consultas.md
 │   └── system_prompt.md
 │
+├── notebooks/
+│   ├── Lunes9AM_RAG_v1_0-Colab.ipynb
+│   └── Lunes9AM_RAG_v1_0-Demo.ipynb
+|
 ├── .gitignore
 ├── LICENSE
 ├── README.md
@@ -173,7 +177,8 @@ python main.py
 
 ## Deploy (en desarrollo)
 
-(captura o URL OCI) 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af20529b-c4ec-43f3-a59c-a9fb9497762a" />
+
 
 ---
 
@@ -188,16 +193,50 @@ El agente fue validado realizando consultas relacionadas con:
 
 En todos los casos las respuestas fueron obtenidas exclusivamente a partir del corpus documental. Por ejemplo: 
 
-Pregunta: ¿Cuál es el primer principio de la OCDE para una IA responsable?
-Respuesta: El primer principio de la OCDE para una IA responsable es "Crecimiento inclusivo, desarrollo sostenible y bienestar (Inclusive growth, sustainable development and well-being)"
+Pregunta: ¿Qué principios recomienda la OCDE para la gobernanza de la IA?
+Respuesta: Los principios que la OCDE recomienda para la gobernanza de la inteligencia artificial, según el documento, son:
+    *   Crecimiento inclusivo, desarrollo sostenible y bienestar.
+    *   Responsabilidad.
+**Riesgos relevantes.**
+    *   **Para "Crecimiento inclusivo, desarrollo sostenible y bienestar":** El riesgo principal es que los sistemas de IA no contribuyan a estos objetivos o, peor aún, los socaven, por ejemplo, al exacerbar desigualdades o impactar negativamente el medio ambiente.
+    *   **Para "Responsabilidad":** La falta de trazabilidad de los procesos y una gestión de riesgos inadecuada pueden llevar a la imposibilidad de identificar las causas de fallos o impactos negativos, dificultando la rendición de cuentas.
+**Acciones recomendadas.**
+    *   **Para "Crecimiento inclusivo, desarrollo sostenible y bienestar":**
+        *   Integrar métricas de impacto social y ambiental en el diseño y evaluación de los sistemas de IA.
+        *   Priorizar el desarrollo de IA que demuestre potencial para reducir desigualdades y promover la sostenibilidad.
+    *   **Para "Responsabilidad":**
+        *   Establecer y mantener registros detallados de la trazabilidad de los sistemas de IA, incluyendo datos de entrenamiento, algoritmos, decisiones de diseño y versiones.
+        *   Implementar un marco sistemático de gestión de riesgos que cubra todo el ciclo de vida del sistema de IA, desde el diseño hasta el despliegue y la operación.
+        *   Definir claramente los roles y responsabilidades para el desarrollo, despliegue y operación de los sistemas de IA.
+**Documentación que debería existir.**
+    *   Evaluaciones de impacto ético y social (incluyendo análisis de desigualdades y sostenibilidad).
+    *   Registros de trazabilidad del sistema de IA (ej. logs de entrenamiento, versiones del modelo, decisiones de diseño).
+    *   Planes de gestión de riesgos de IA.
+    *   Políticas internas de gobernanza de IA que asignen responsabilidades específicas.
+**Fundamento normativo.**
+    Los principios se basan en los "Principios basados en valores" de los OECD AI Principles:
+    *   "1.1 - Crecimiento inclusivo, desarrollo sostenible y bienestar (Inclusive growth, sustainable development and well-being): La IA debe contribuir al crecimiento y la prosperidad global, aumentando las capacidades humanas, reduciendo las desigualdades y protegiendo..."
+    *   "1.5 - Responsabilidad (Accountability): Las organizaciones e individuos que desarrollan u operan sistemas de IA deben rendir cuentas de su funcionamiento, garantizando la trazabilidad de los procesos y aplicando una gestión sistemática de riesgos."
+**Limitaciones.**
+    El extracto proporcionado es un resumen de los Principios de la OCDE y solo detalla dos de los principios basados en valores (1.1 y 1.5). Es posible que la versión completa de los Principios de la OCDE incluya otros principios que no están presentes en este fragmento.
 
-Pregunta: ¿Qué recomienda la UNESCO sobre supervisión humana?
-Respuesta: La UNESCO recomienda que los "actores de la IA deben respetar la libertad, la dignidad, la privacidad y la justicia social. Esto incluye abordar la desinformación y **garantizar la supervisión humana para evitar el uso indebido.**"
+Pregunta: ¿Qué riesgos debería documentar un equipo antes de desplegar un sistema de Inteligencia Artificial?
+Respuesta: Un equipo debería documentar los riesgos relacionados con:
+- Información errónea, desinformación y discurso de odio, así como los daños causados por el uso indebido de los datos personales.
+- Las repercusiones de los sistemas de IA en la cultura, especialmente de las aplicaciones de procesamiento del lenguaje natural (PLN), como la traducción automática y los asistentes de voz, en los matices del lenguaje y la expresión humanos.
+- El impacto de los sistemas de IA en los derechos humanos, incluidos los derechos de los niños, y sus repercusiones.
+- Reforzar o perpetuar aplicaciones y resultados discriminatorios o sesgados, para garantizar la equidad de dichos sistemas.
+- La posibilidad de que los sistemas causen **daños indebidos o muestren comportamientos no deseados.
 
-Pregunta: ¿Qué hace a un sistema de IA robusto?
-Respuesta: Según el contexto, los sistemas de IA deben ser "seguros durante todo su ciclo de vida". Además, para ser robustos, "deben existir mecanismos para anular, reparar o retirar sistemas que causen daños indebidos o muestren comportamientos no deseados."
+Pregunta: ¿Qué documentación debería existir antes de desplegar un sistema de Inteligencia Artificial de alto impacto?
+Respuesta: Antes de desplegar un sistema de IA de alto impacto, debería existir la siguiente documentación y procesos:
+- Evaluaciones del impacto ético de los sistemas de IA: Estas deben realizarse para anticipar las repercusiones, atenuar los riesgos, evitar las consecuencias perjudiciales, facilitar la participación de los ciudadanos y hacer frente a los desafíos sociales (Párrafo 53).
+- Mecanismos de supervisión adecuados: La evaluación debe establecer la auditabilidad, la trazabilidad y la explicabilidad, que permitan evaluar los algoritmos, los datos y los procesos de concepción (Párrafo 53).
+- Examen externo de los sistemas: La evaluación debe incluir un examen externo de los sistemas (Párrafo 53).
+- Evaluaciones del impacto en la privacidad: Estas evaluaciones deben incluir consideraciones sociales y éticas de su utilización y un empleo innovador del enfoque de privacidad desde la etapa de concepción (Párrafo 34).
+- Evaluaciones de los aspectos éticos de los sistemas de IA: Las obligaciones en materia de derechos humanos deberían formar parte de estas evaluaciones (Párrafo 52).
 
-Pregunta: ¿Quién es Lionel Messi?
+Pregunta: ¿Cuál es la fecha exacta en que Argentina aprobará una ley nacional de Inteligencia Artificial?
 Respuesta: La información no está disponible en los documentos consultados.
 
 ```
